@@ -9,7 +9,7 @@ from datetime import datetime, timezone
 import pytz
 from django.utils import timezone
 from django import forms
-from backports.zoneinfo import ZoneInfo
+import ZoneInfo
 from django.db import models
 from datetime import timedelta
 # Create your models here.

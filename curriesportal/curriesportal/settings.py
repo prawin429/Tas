@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-+aidavor2q=56uw(rnd1^jz1+k6eq7u6axz9vewf6sy2lwr+*(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','curriesportal.herokuapp.com']
 
 AUTH_USER_MODEL = 'account.User'
 
